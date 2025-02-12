@@ -23,3 +23,6 @@ Atualmente, existem uma série de Dashboards da ONS que foram desenvolvidos ante
 - [ ] [SATRA - Painel Power BI acessando o PI Vision](https://github.com/genesis-dataculture/ons-time94/issues/208)
 - [ ] [Indicadores PRH - Criar uma versão Power BI](https://github.com/genesis-dataculture/ons-time94/issues/209)
 
+## 📌 Roadmap do Projeto 🚀
+
+Para visualizar o roadmap completo e atualizado, acesse [Roadmap GitHub Projects](https://github.com/genesis-dataculture/projects).
