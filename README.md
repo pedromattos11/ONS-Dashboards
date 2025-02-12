@@ -25,4 +25,4 @@ Atualmente, existem uma série de Dashboards da ONS que foram desenvolvidos ante
 
 ## 📌 Roadmap do Projeto 🚀
 
-Para visualizar o roadmap completo e atualizado, acesse [Roadmap GitHub Projects](https://github.com/genesis-dataculture/projects).
+Para visualizar o roadmap completo e atualizado, acesse [Roadmap GitHub Projects]([https://github.com/genesis-dataculture/projects](https://github.com/orgs/genesis-dataculture/projects/16/views/4?filterQuery=assignee%3A%22eric-luis%22)).
