@@ -1,4 +1,4 @@
-# 🔵 ONS-Dashboards
+## 🔵 ONS-Dashboards
 Atualmente, existem uma série de Dashboards da ONS que foram desenvolvidos anteriormente através da ferramenta Tableau, entretanto, esses Dashboards estão sendo desenvolvidos novamente em Power BI.
 
 
@@ -7,7 +7,12 @@ Atualmente, existem uma série de Dashboards da ONS que foram desenvolvidos ante
 
 
 
-# ⚪️ Tasks Sprint 13 | 30/01/2025 → 20/02/2025
+# 📍 Tasks Sprint 13 | 📅 30/01/2025 → 20/02/2025
 
-https://github.com/genesis-dataculture/ons-time94/issues/187
+- [ ] [Painel Matriz de Energia Elétrica](https://github.com/genesis-dataculture/ons-time94/issues/187)
+- [ ] [Painel Geração Solar](https://github.com/genesis-dataculture/ons-time94/issues/186)
+- [ ] [Painel Geração de Energia](https://github.com/genesis-dataculture/ons-time94/issues/185)
+- [ ] [Painel Geração Eólica](https://github.com/genesis-dataculture/ons-time94/issues/184)
+- [ ] [Painel Geração Eólica e Solar - Histórico da Operação](https://github.com/genesis-dataculture/ons-time94/issues/188)
+- [ ] [Painel Intercâmbio de Energia](https://github.com/genesis-dataculture/ons-time94/issues/189)
 
