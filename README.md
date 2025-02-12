@@ -16,3 +16,10 @@ Atualmente, existem uma série de Dashboards da ONS que foram desenvolvidos ante
 - [ ] [Painel Geração Eólica e Solar - Histórico da Operação](https://github.com/genesis-dataculture/ons-time94/issues/188)
 - [ ] [Painel Intercâmbio de Energia](https://github.com/genesis-dataculture/ons-time94/issues/189)
 
+## 📍 Tasks Sprint 14 | 📅 21/02/2025 → 13/03/2025
+
+- [ ] [PRH - Demandas PRH Analítico: Correção painel de indicador PRH (IPDO) - Exibir no painel sempre o horário da 1ª publicação](https://github.com/genesis-dataculture/ons-time94/issues/199)
+- [ ] [Migração Tableau-BI: Dados Hidrológicos - Vazões](https://github.com/genesis-dataculture/ons-time94/issues/202)
+- [ ] [SATRA - Painel Power BI acessando o PI Vision](https://github.com/genesis-dataculture/ons-time94/issues/208)
+- [ ] [Indicadores PRH - Criar uma versão Power BI](https://github.com/genesis-dataculture/ons-time94/issues/209)
+
