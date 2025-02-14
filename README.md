@@ -11,7 +11,7 @@ Atualmente, existem uma série de Dashboards da ONS que foram desenvolvidos ante
 
 ## 📍 Tasks Sprint 13 | 📅 30/01/2025 → 20/02/2025
 
-- [ ] 🟡 [Painel Matriz de Energia Elétrica](https://github.com/genesis-dataculture/ons-time94/issues/187) 
+- [ ] 🟢 [Painel Matriz de Energia Elétrica](https://github.com/genesis-dataculture/ons-time94/issues/187) 
 - [ ] 🟡 [Painel Geração Solar](https://github.com/genesis-dataculture/ons-time94/issues/186)
 - [ ] 🟡 [Painel Geração de Energia](https://github.com/genesis-dataculture/ons-time94/issues/185)
 - [ ] 🟡 [Painel Geração Eólica](https://github.com/genesis-dataculture/ons-time94/issues/184)
