@@ -32,6 +32,9 @@ As seguintes tarefas foram adiadas para a próxima sprint:
 - [ ] [Migração Tableau-BI: Dados Hidrológicos - Vazões](https://github.com/genesis-dataculture/ons-time94/issues/202)
 - [ ] [SATRA - Painel Power BI acessando o PI Vision](https://github.com/genesis-dataculture/ons-time94/issues/208)
 - [ ] [Indicadores PRH - Criar uma versão Power BI](https://github.com/genesis-dataculture/ons-time94/issues/209)
+- [ ] [Painel Histórico da Operação](https://github.com/genesis-dataculture/ons-time94/issues/188)
+- [ ] [Painel Intercâmbio de Energia](https://github.com/genesis-dataculture/ons-time94/issues/189)
+
 
 ## 📌 Roadmap do Projeto 🚀
 
